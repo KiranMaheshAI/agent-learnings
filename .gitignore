@@ -2,3 +2,6 @@ venv/
 .venv/
 .env
 .env.*
+.claude/
+.DS_Store
+tailor/
